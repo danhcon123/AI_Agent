@@ -13,3 +13,14 @@ The **Research Agent** is an AI-powered assistant that leverages OpenAI models t
    git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
    cd YOUR_REPOSITORY
    ```
+
+2. **Create virtual environment and install dependencies (on Window)**
+
+   ```bash
+  python -m venv venv
+  source venv/bin/activate  # On macOS/Linux
+  venv\Scripts\activate     # On Windows
+
+  pip install -r requirements.txt # Install dependencies
+
+   ```
