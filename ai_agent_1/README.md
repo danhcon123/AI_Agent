@@ -20,7 +20,5 @@ The **Research Agent** is an AI-powered assistant that leverages OpenAI models t
   python -m venv venv
   source venv/bin/activate  # On macOS/Linux
   venv\Scripts\activate     # On Windows
-
   pip install -r requirements.txt # Install dependencies
-
    ```
