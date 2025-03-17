@@ -14,7 +14,7 @@ The **Research Agent** is an AI-powered assistant that leverages OpenAI models t
    cd YOUR_REPOSITORY
    ```
 
-2. **Create virtual environment and install dependencies (on Window)**
+2. **Create virtual environment and install dependencies**
    **On Windows:**
    ```powershell
    python -m venv venv
